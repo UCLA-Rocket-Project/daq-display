@@ -2,6 +2,7 @@
 Look ma, no Labview!
 
 ## Dependencies
+- [Poetry](https://python-poetry.org/docs/)
 - Python 3.7+
 - pymodbus
 - PyQt4
