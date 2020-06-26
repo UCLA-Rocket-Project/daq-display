@@ -2,7 +2,11 @@
 Look ma, no Labview!
 
 ## Dependencies
-- Python 3.6+
+- Python 3.7+
 - pymodbus
-- PyQt
+- PyQt4
 - pyqtgraph
+
+## Basic Layout
+
+[Google Drawing Here](https://docs.google.com/drawings/d/1nj8GllTTlC7pYvAv4aKbgEYh7g_emlMcZ6tk-5v_3Lg/edit)
