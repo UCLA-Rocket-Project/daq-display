@@ -8,6 +8,7 @@ authors = ["Hamlin Liu <hamlin.liu@gmail.com>"]
 python = "3.7"
 PyQt5 = "^5.15.0"
 pyqtgraph = "^0.11.0"
+pymodbus = "^2.3.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "*"
