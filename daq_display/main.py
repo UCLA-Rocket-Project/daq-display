@@ -3,5 +3,4 @@ import sys
 
 '''
 Main UI script
-
 '''

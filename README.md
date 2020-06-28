@@ -15,4 +15,12 @@ Utilize Poetry to install the rest of the dependencies
 
 
 
-## Layout of the Program
+## Developing on your end
+
+Assuming that poetry is installed correctly
+Do the following to install the dependencies
+`$ git clone <this repo>`
+`$ poetry install`
+
+to run any of the python files do
+`$ poetry run python <FILEPATH>`
