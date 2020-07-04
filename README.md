@@ -22,6 +22,7 @@ Do the following to install the dependencies
 
 ```
 $ git clone https://github.com/UCLA-Rocket-Project/daq-display.git
+$ cd daq-display
 $ poetry install
 ```
 
