@@ -19,8 +19,15 @@ Utilize Poetry to install the rest of the dependencies
 
 Assuming that poetry is installed correctly
 Do the following to install the dependencies
-`$ git clone <this repo>`
-`$ poetry install`
+
+```
+$ git clone https://github.com/UCLA-Rocket-Project/daq-display.git
+$ cd daq-display
+$ poetry install
+```
 
 to run any of the python files do
-`$ poetry run python <FILEPATH>`
+
+```
+$ poetry run python <FILEPATH>
+```
