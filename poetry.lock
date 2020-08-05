@@ -228,9 +228,9 @@ docs = ["sphinx", "jaraco.packaging (>=3.2)", "rst.linker (>=1.9)"]
 testing = ["jaraco.itertools", "func-timeout"]
 
 [metadata]
-content-hash = "0be53f6b500f69d10d1d4d050768cab0eb52cb8e1c2b7912b3b00c386b604ea9"
+content-hash = "40abf8cf0aa8843ae58fcac49b85b54c0056ad29a816fa4a9bb3a584041a7610"
 lock-version = "1.0"
-python-versions = "3.7.x"
+python-versions = "^3.7"
 
 [metadata.files]
 atomicwrites = [
