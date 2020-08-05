@@ -5,7 +5,7 @@ description = ""
 authors = ["Hamlin Liu <hamlin.liu@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "3.7"
+python = "3.7.x"
 PyQt5 = "^5.15.0"
 pyqtgraph = "^0.11.0"
 pymodbus = "^2.3.0"
